@@ -1,0 +1,9 @@
+POST http://localhost:8080/h2/post
+Content-Type: application/json
+
+{
+  "firstName": "Lorem2",
+  "lastName": "Sit",
+  "age": 21,
+  "study": true
+}
